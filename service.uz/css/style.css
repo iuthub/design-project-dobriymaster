@@ -1,0 +1,151 @@
+body{
+	font-family:  "Times New Romance";
+	margin: 0;
+	padding: 0;
+	color: #222;
+
+}
+h2 ,h1{
+		text-align: center;
+	}
+.navbar-brand{
+padding-right: 0;
+margin: 0;
+}
+
+.nav-item li {
+	text-decoration: none;
+	display: inline-block; 
+	margin: 0 10px;
+}
+
+.nav-link {
+	text-transform: capitalize;
+	color: #004fa5;
+}
+.nav-item >li {
+	font-size: 20pt;
+}
+
+
+.nav-item >li>a:hover {
+	
+	border-bottom: 1px solid red;
+	color: red;
+}
+
+.nav-item{
+	padding: 0;
+	margin: 0;
+}
+header {
+	margin: 10px 0 20px 0;
+}
+.contact p{
+	text-align: right;
+	margin: 0 70px;
+	padding: 0;
+}
+.menu{ 
+	background: #222;
+	border: 0;
+	box-shadow: 0 0 5px rgba(0,0,0, .40);
+}
+
+.image{
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+hr{
+	box-shadow: 0 0 5px rgba(0,65656,66666, .40);
+}
+.container{
+	font-size: 18px;
+	}
+	
+.advantage-item3 img{
+	vertical-align: middle;
+	border: 0;
+}
+
+.menu-items p {
+	display: inline-block;
+    position: relative;
+    width: 24%;
+    padding: 10px 0;
+    margin-left: 193px;
+    text-align: center;
+
+}
+
+
+
+.footer-height{
+	padding: 0 0 0pt 0;
+	background-color: #f8f9fa!important;
+	border: 0;
+	box-shadow: 0 0 5px rgba(0,0,0, .40);
+
+}
+.footer-height .foot li{
+	text-decoration: none;
+	padding: 0;
+	margin: 0;
+
+}	
+
+.foot li{
+ color: #0762ef;
+}
+.vniz{
+	padding: 0 0 50pt 0;
+}
+
+.vniz-forma{
+	padding: 0 0 50pt 0;
+}
+
+.vniz-sxema{
+	padding: 0 0 140pt 0;
+}
+/* From here begin remont.htmls style*/
+.remont1  a{
+	border-bottom: 1px solid red;
+	color: red;
+}
+.image-remont h1 {
+background: #222;
+	border: 0;
+	box-shadow: 0 0 5px rgba(5,595,565, .650);
+}
+.table_service {
+    width: 100%;
+    border-bottom: 1px solid #d7e3b6;
+    margin-bottom: 5px;}
+.table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+.table_service tr.table_heder {
+    background: #85a921;
+    color: #fff;
+}
+/* From here begin sxema.htmls style*/
+
+.sxema1  a{
+	border-bottom: 1px solid red;
+	color: red;
+}
+/* From here begin forma.htmls style*/
+
+.forma1  a{
+	border-bottom: 1px solid red;
+	color: red;
+}
+/* From here begin question.htmls style*/
+
+.question1  a{
+	border-bottom: 1px solid red;
+	color: red;
+}
